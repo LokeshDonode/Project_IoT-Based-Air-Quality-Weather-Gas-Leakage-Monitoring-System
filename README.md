@@ -47,6 +47,6 @@ Sensors → BeagleBone Black → MQTT Publisher → MQTT Broker → MQTT Subscri
 - Enables environmental trend analysis
 
 ### 3️⃣ Gas Leakage Detection
-- Detects methane gas using MQ4 sensor
+- Detects methane gas using MQ135 sensor
 - Generates alerts when gas levels exceed safety thresholds
 ---
